@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You are current visitor number
+<img src="https://profile-counter.glitch.me/yashparikh02/count.svg" />
 <!--
 **yashparikh02/yashparikh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
